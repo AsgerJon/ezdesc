@@ -1,0 +1,2 @@
+# ezdesc
+Easy nested descriptors.
